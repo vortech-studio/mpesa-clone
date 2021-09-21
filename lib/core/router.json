@@ -1,0 +1,35 @@
+{
+    "last_updated": "Thu, 22 Jul 2021 11:12:13 GMT",
+    "routes": [
+        {
+            "file_path": "views/splash/splash_view.dart",
+            "route_name": "splashViewRoute",
+            "view_name": "SplashView"
+        },
+        {
+            "file_path": "views/login/login_view.dart",
+            "route_name": "loginViewRoute",
+            "view_name": "LoginView"
+        },
+        {
+            "file_path": "views/menu/menu_view.dart",
+            "route_name": "menuViewRoute",
+            "view_name": "MenuView"
+        },
+        {
+            "file_path": "views/menu/menu_view.dart",
+            "route_name": "menuViewRoute0",
+            "view_name": "MenuView"
+        },
+        {
+            "file_path": "views/home/home_view.dart",
+            "route_name": "homeViewRoute",
+            "view_name": "HomeView"
+        },
+        {
+            "file_path": "views/transact/transact_view.dart",
+            "route_name": "transactViewRoute",
+            "view_name": "TransactView"
+        }
+    ]
+}
